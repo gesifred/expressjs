@@ -2,7 +2,7 @@
 
 This example starts an [ExpressJS](https://expressjs.com/) server written in [TypeScript](https://www.typescriptlang.org/).
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/n_2mnn?referralCode=matt)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app?referralCode=H6JUmN)
 
 ## ✨ Features
 
